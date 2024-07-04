@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1010" src="assets/Banner.png">
+    <img width="1010" src="https://github.com/FerrariusF/Bits-da-Desolacao/blob/main/assets/banner.png">
 </p>
 
 # Projeto de Podcast Gerado por I.A.s
