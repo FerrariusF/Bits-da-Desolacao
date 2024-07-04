@@ -19,7 +19,7 @@ Utilizar esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Imagem Lexica.art
-- Audio gerado pela elevenLabs
+- Audio gerado pela Text to speech free
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 
